@@ -1,3 +1,8 @@
+This repository is a copy of the repository provided in the course.
+The actual code needed to run the analysis from the exam paper is found under Exercises -> Exam2024 -> ElectricityStorageExam.
+
+The text underneath this is copied from the course repository.
+
 # EnergyEconomicsE2024
 Code repository for core models and exercises for the course "Energy Economics of the Green Transition" at UCPH, 2024 version.
 
